@@ -1,0 +1,19 @@
+.menu-container{
+    background-color: #666;
+    /* height: 50%;  */
+    width: 100%;
+    display: flex;
+    margin-left: 35px;
+    justify-content: space-around;
+}
+.menu-items{
+    display: flex;
+    font-size: 24px;
+    /* margin: 10px; */
+    color: white;
+     
+}
+.menu-item{
+   padding-left: 15px; 
+   padding-right: 15px; 
+}
